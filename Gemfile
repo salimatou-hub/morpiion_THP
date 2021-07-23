@@ -1,6 +1,7 @@
-source "https://rubygems.org"
-ruby '3.0.0'
+source 'https://rubygems.org'
+ruby '2.7.1'
+gem 'rubocop', '~> 0.57.2'
 gem 'rspec'
 gem 'pry'
-gem 'rubocop'
 gem 'dotenv'
+gem 'colorize', '~> 0.8.1'
